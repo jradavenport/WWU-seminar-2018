@@ -24,6 +24,8 @@ Students are welcome (or even encouraged) to use their own laptops for the semin
 
 Labs will be carried out using data provided each week, and explored using Jupyter (formerly IPython) Notebooks.
 
+Students will need a GitHub account to turn assignments in.
+
 
 ## Classroom Behavior
 While the seminar is informal in nature, normal rules of academic classroom behavior are expected. Please ask questions, and engage with the instructor and your peers. Be respectful of those who are talking by actively listening. Disruptive, rude, or inappropriate behavior will not be tolerated
@@ -31,7 +33,7 @@ While the seminar is informal in nature, normal rules of academic classroom beha
 
 ## Schedule (subject to change!)
 
-1. Tools of the trade
+1. [Tools of the trade](lab1/) (2018-May-4)
 2. Algorithm 1: Do something!
 3. Algorithm 2: Try to break your code
 4. Data wrangling, file Input/Output
