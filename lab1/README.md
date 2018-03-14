@@ -25,7 +25,7 @@ Each week a new lab will appear in a new sub-directory, which will have example 
 
 Then, **do the assignment**. Either start a new Jupyter notebook, or duplicate the example notebook. *Don't* just modify the example and turn it in! Good practice: create a new notebook with name `lab1-LASTNAME.ipynb`.
 
-To turn in your assignment: Commit your changes to your local "repo", push to your fork. Finally, [submit a pull request](https://help.github.com/articles/using-pull-requests/) back to the original (my) version.
+To turn in your assignment: Commit your changes to your local "repo", push to your fork. Finally, [submit a pull request](https://help.github.com/articles/using-pull-requests/) back to the original (my) repo.
 
 
 ## Part 3: A simple calculation
