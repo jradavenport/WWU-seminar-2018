@@ -10,7 +10,7 @@ Instructor: [James Davenport](http://jradavenport.github.io)
 
 Email: James.Davenport@wwu.edu
 
-Class: TBD
+Class: Wednesdays, 4-5:30pm
 
 
 ## Seminar Goals
@@ -23,7 +23,7 @@ While the seminar is informal in nature, normal rules of academic classroom beha
 
 ## Schedule (subject to change!)
 
-1. Tools of the trade	
+1. Tools of the trade
 2. Algorithm 1: Do something!
 3. Algorithm 2: Try to break your code
 4. Data wrangling, file Input/Output

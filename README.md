@@ -1,2 +1,4 @@
 # WWU-seminar-2018
-Astro/Phys seminar on practical coding and data science techniques
+A seminar on practical coding and data science techniques. Intended for mid-to-upper level undergraduates, or anyone interested in starting to do astronomy research projects.
+
+Check out the Syllabus for labs!
