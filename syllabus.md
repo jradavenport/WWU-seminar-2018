@@ -33,8 +33,8 @@ While the seminar is informal in nature, normal rules of academic classroom beha
 
 ## Schedule (subject to change!)
 
-1. [Tools of the trade](lab1/) (2018-May-4)
-2. Algorithm 1: Do something!
+1. [Tools of the trade](lab1/) (2018-April-4)
+2. [Algorithm 1: Do something!](lab2/) (2018-April-11)
 3. Algorithm 2: Try to break your code
 4. Data wrangling, file Input/Output
 5. Data visualization, what makes a “good” plot
