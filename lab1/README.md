@@ -1,4 +1,4 @@
-µ# Lab 1: Tools of the trade
+# Lab 1: Tools of the trade
 
 ## Part 1: Installing things
 
