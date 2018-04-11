@@ -25,7 +25,7 @@ Each week a lab will appear in a new sub-directory, which will have example code
 
 4) To turn in your assignment: **Commit** your changes to your local "repo", **push** back to your fork on GitHub. Finally, on GitHub [submit a pull request](https://help.github.com/articles/using-pull-requests/) back to the original (my) repo.
 
-This process is confusing, and it took me a long while to
+This process is confusing, and it took me a long while to memorize.
 
 
 ## Part 3: A simple calculation
