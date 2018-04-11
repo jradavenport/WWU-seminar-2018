@@ -63,7 +63,7 @@ Today's real challenge is to implement the algorithm described by N. G. Roman 19
 
 ### 3.1: Implement the algorithm from Roman (1987)
 - Skip "step 1", since we'll ignore precession.
-    ⁃ Note, precession of stars from 1875 to today is significant! Like, ~30 arcmin...
+    - Note, precession of stars from 1875 to today is significant! Like, ~30 arcmin...
 - Use the provided data.txt file
 - Make this it's own method/function!
 - What constellation does Vega lie in? (ra=18.62, dec=38.78)
