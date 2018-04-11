@@ -35,18 +35,25 @@ Some rules of the road:
 - Python functions take "args" and "kwargs"...
 
 
-### 2.1: Write a function called K2F that converts Kelvin to Fahrenheit.
+### 2.1: Write a function called K2F that converts Kelvin to Fahrenheit
 
 - Be sure to include all the required documentation
 - Explore what happens when you give it unphysical values...
 - Stretch goal: make the conversion go either way (F2K or K2F), using a flag/boolean
 
-### 2.2: Put your function in a new file and import it into your IPython notebook. (optional)
+### 2.2: Put your function in a new file and import it into your IPython notebook (optional)
 - Create a file called LASTNAME_func.py.
 - Cut/Paste K2F in to it
-- Then try importing and using your function in Python like: `from LASTNAME_func import K2F`
+- Then try importing and using your function in Python like:
+````python
+from LASTNAME_func import K2F
+````
 - Does it still work? (be sure K2F isn't defined elsewhere in the notebook!)
-- Stretch goal: put another function in that same file. Switch your import statement to be more general: `import LASTNAME_func as func ⁃ func.K2F`
+- Stretch goal: put another function in that same file. Switch your import statement to be more general:
+````python
+import LASTNAME_func as func
+func.K2F
+````
 
 
 ## Part 3: Constellation Algorithm
