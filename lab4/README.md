@@ -27,15 +27,15 @@ I have pushed you towards using Pandas in this seminar, primarily because it mak
 
 ### 2.1: Read a simple text file
 We've done this before, using simple .csv files (e.g. [Lab 1](https://github.com/jradavenport/WWU-seminar-2018/tree/master/lab1)) with `pd.read_csv`. This is an important basic tool!
-    - Now try reading in another simple text file using the similar `pd.read_table`
-    - The file is: `data/2mass_photometry.tbl`, It contains data from the 2MASS database.
+- Now try reading in another simple text file using the similar `pd.read_table`
+- The file is: `data/2mass_photometry.tbl`, It contains data from the 2MASS database.
 
 
 ### 2.2: Make a plot with this data
 Make a plot of the infrared *color magnitude diagram*, i.e. (J-K, J) for this field
-    - remember, flip the Y-axis for magnitudes! (silly astronomers)
-    - Highlight (use different color, points, etc) stars within 0.25 deg from the field center (RA=132.825deg, Dec=11.80deg)
-    - This is the famous open cluster [M67](https://en.wikipedia.org/wiki/Messier_67)
+- remember, flip the Y-axis for magnitudes! (silly astronomers)
+- Highlight (use different color, points, etc) stars within 0.25 deg from the field center (RA=132.825deg, Dec=11.80deg)
+- This is the famous open cluster [M67](https://en.wikipedia.org/wiki/Messier_67)
 
 
 
