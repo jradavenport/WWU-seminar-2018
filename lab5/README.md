@@ -32,8 +32,4 @@ Just like last week, you have to update the Fork to include the new lab! So, onc
 
 
 ## Part 2: Recreate (as closely as you can) the plot I have provided!
-Today's data comes from the very famous HIPPARCOS mission
-
-
-## Part 3: Animation!
-Use the data to make an animation in matplotlib.
+Today's data comes from the very famous HIPPARCOS mission, which as of 2018-April-25 has been succeeded by Gaia!
