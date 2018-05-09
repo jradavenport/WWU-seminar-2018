@@ -36,8 +36,8 @@ While the seminar is informal in nature, normal rules of academic classroom beha
 1. [Tools of the trade](lab1/) (2018-April-4)
 2. [Algorithm 1: Do something!](lab2/) (2018-April-11)
 3. [Algorithm 2: Try to break your code](lab3/) (2018-April-18)
-    - no class (2018-April-25)
+    - **no class (2018-April-25)**
 4. [Data wrangling, file Input/Output](lab4/) (2018-May-2)
-5. Data visualization, what makes a “good” plot
+5. [Data visualization, what makes a “good” plot](lab5/) (2018-May-9)
 6. Fitting a model to data, making measurements
 7. Intro to machine learning
