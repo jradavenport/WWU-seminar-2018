@@ -1,4 +1,4 @@
-# Lab 5 Data visualization and making "good" plots
+# Lab 5: Data visualization and making "good" plots
 
 
 In today's installment we have only one goal: make great looking plot that is publication ready! Making "good" plots is 90% thinking about the story or point you're trying to tell, and 10% graphic design or art. The former takes years of work to learn (and, incidentally, is why companies like hiring scientists). Some people never grok the latter, but we can at least teach you about the tools needed to design visually pleasing figures.

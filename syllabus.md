@@ -39,6 +39,6 @@ While the seminar is informal in nature, normal rules of academic classroom beha
     - **no class (2018-April-25)**
 4. [Data wrangling, file Input/Output](lab4/) (2018-May-2)
 5. [Data visualization, what makes a “good” plot](lab5/) (2018-May-9)
-6. Monte Carlo Simulations
-7. Fitting a model to data, making measurements
-8. Intro to machine learning
+6. [Monte Carlo Simulations](lab6/) (2018-May-16)
+7. [Fitting a model to data, making measurements](lab7/) (2018-May-23)
+8. Machine learning (2018-May-30)
