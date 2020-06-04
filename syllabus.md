@@ -8,8 +8,6 @@
 
 Instructor: [James Davenport](http://jradavenport.github.io)
 
-Email: James.Davenport@wwu.edu
-
 Class: Wednesdays, 4-5:30pm
 
 
